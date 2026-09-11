@@ -1,0 +1,5 @@
+# This repo is the user's home folder - only track the lotto project files.
+# Ignore everything by default, then explicitly allow project files.
+/*
+!/.gitignore
+!/index.html
